@@ -1,0 +1,2 @@
+# AspNetCoreBook-Ski
+Book Samples
